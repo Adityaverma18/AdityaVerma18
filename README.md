@@ -1,6 +1,6 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Aditya Verma
 
-<h3 align="center">🚀 Full Stack Developer • Machine Learning Enthusiast • Competitive Programmer</h3>
+<h3 align="center">🚀 Full Stack Developer | Machine Learning Enthusiast | Competitive Programmer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;CodeChef+3-Star+Programmer;Building+RapidRelief+%F0%9F%9A%A8" />
@@ -16,20 +16,30 @@
 
 ---
 
-## 🏆 Achievements
+# 🚀 About Me
 
-<p align="center">
-⭐ CodeChef 3★ &nbsp;&nbsp;
-🏅 Global Rank 34 &nbsp;&nbsp;
-📈 Codeforces Pupil &nbsp;&nbsp;
-💯 500+ Problems Solved
-</p>
+I'm a Computer Science Engineering (Data Science) undergraduate with strong foundations in software engineering, machine learning, and competitive programming.
+
+My journey started with solving algorithmic challenges and gradually expanded into building full-stack applications, AI-powered systems, and scalable backend architectures.
+
+I enjoy transforming ideas into production-ready applications that solve real-world problems through technology.
+
+Currently, I'm building **RapidRelief**, an AI-powered disaster management platform that combines machine learning, real-time communication, and geospatial optimization to improve emergency response.
+
+### 🎯 Current Focus
+
+* 🚨 RapidRelief – Intelligent Disaster Management System
+* 🤖 Machine Learning Systems & MLOps
+* ⚙️ Scalable Backend Architectures
+* ☁️ Cloud Deployment & DevOps
+* 📡 Real-Time Communication Systems
+* 🏗️ System Design & Distributed Systems
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
-### Languages
+### Programming Languages
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,java,c,javascript" />
@@ -62,7 +72,7 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws,vercel,render" />
@@ -70,7 +80,7 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <table>
 <tr>
@@ -78,12 +88,13 @@
 
 ### 🚨 RapidRelief
 
-AI Powered Disaster Management System
+AI-Powered Disaster Management System
 
 * Real-Time Rescue Coordination
 * AI Resource Prediction
-* KD Tree Optimization
+* KD-Tree Optimization
 * FastAPI + Node.js
+* Socket.IO Integration
 
 </td>
 
@@ -97,6 +108,7 @@ Voice Emotion Recognition
 * 89% Speaker Accuracy
 * TensorFlow
 * Deep Learning
+* CI/CD Pipeline
 
 </td>
 </tr>
@@ -112,15 +124,17 @@ Full Stack E-Commerce
 * AWS S3
 * React + Node.js
 * MongoDB
+* Cloud Deployment
 
 </td>
 
 <td width="50%">
 
-### 🧠 Current Focus
+### 🎯 Interests
 
+* Backend Engineering
+* Machine Learning
 * System Design
-* MLOps
 * Cloud Computing
 * Distributed Systems
 
@@ -130,32 +144,7 @@ Full Stack E-Commerce
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adityaverma18&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaverma18&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Adityaverma18&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Adityaverma18&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityaverma18&theme=tokyo-night&hide_border=true" />
@@ -163,7 +152,7 @@ Full Stack E-Commerce
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -187,4 +176,6 @@ Full Stack E-Commerce
 
 ---
 
-<h3 align="center">💡 Building intelligent systems that solve real-world problems through software and AI.</h3>
+<h3 align="center">
+💡 Building intelligent systems that solve real-world problems through software, data, and innovation.
+</h3>
