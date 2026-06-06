@@ -2,15 +2,152 @@
 
 ### 🚀 Full Stack Developer | Machine Learning Enthusiast | Competitive Programmer
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+🎓 **B.Tech in Computer Science Engineering (Data Science)** @ Techno Main Salt Lake, Kolkata
 
-🎓 Computer Science Engineering (Data Science) Student
+🏆 **CodeChef 3★ Programmer (Rating: 1616)**
 
-🌱 Currently building **RapidRelief – Intelligent Disaster Management System**
+🥇 **Global Rank 34** in CodeChef Global Starters 158
 
-💡 Interested in **Full Stack Development, Machine Learning, System Design, Cloud Computing, and Real-Time Systems**
+💡 Passionate about **Backend Engineering, Full Stack Development, Machine Learning, System Design, and Cloud Computing**
 
-⚡ CodeChef 3★ Programmer | Global Rank 34 | 500+ DSA Problems Solved
+🌱 Currently building **RapidRelief — Intelligent Disaster Management System**
+
+---
+
+## 🚀 About Me
+
+* 💻 Building scalable full-stack applications
+* 🤖 Developing Machine Learning and AI-powered solutions
+* ⚡ Solving Data Structures & Algorithms problems
+* 🌍 Interested in Real-Time Systems and Distributed Computing
+* 📚 Constantly learning new technologies and best practices
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,python,java,c,javascript" />
+</p>
+
+### Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+</p>
+
+### Backend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### Machine Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+<p align="left">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+</p>
+
+### Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws,vercel,render" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+* ⭐ CodeChef 3-Star Programmer
+* 🏅 Global Rank 34 in CodeChef Global Starters 158
+* 📈 Codeforces Pupil
+* 👨‍💻 Solved 500+ DSA Problems across various platforms
+* 🚀 Built and deployed multiple Full-Stack and ML projects independently
+
+---
+
+## 🚀 Featured Projects
+
+### 🚨 RapidRelief
+
+AI-powered Disaster Management & Emergency Response Platform
+
+**Tech Stack:** React, Node.js, MongoDB, FastAPI, Socket.IO, Machine Learning
+
+**Highlights**
+
+* Real-time rescue coordination
+* AI resource prediction
+* KD-Tree spatial optimization
+* Rescue team allocation system
+
+---
+
+### 🎙️ VAANI
+
+Voice and Audio Analysis Natural Interface
+
+**Tech Stack:** Python, TensorFlow, Conv1D, BiLSTM, Attention
+
+**Highlights**
+
+* 96% Emotion Recognition Accuracy
+* 89% Speaker Classification Accuracy
+* Automated CI/CD using GitHub Actions
+
+---
+
+### 👟 Sneaker Hub
+
+Full Stack E-Commerce Platform
+
+**Tech Stack:** React, Node.js, MongoDB, JWT, AWS S3
+
+**Highlights**
+
+* Secure authentication
+* Cloud deployment
+* Optimized REST APIs
+* Improved API performance
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Adityaverma18&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Adityaverma18&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaverma18&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Adityaverma18&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
@@ -29,102 +166,6 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 </p>
-
----
-
-## 💻 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,c,javascript,mysql,postgresql" />
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-### Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws,vercel" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🚨 RapidRelief
-
-AI-Powered Disaster Management System
-
-* Real-Time Rescue Coordination
-* Resource Prediction using Machine Learning
-* KD-Tree Spatial Optimization
-* FastAPI + Node.js Microservices
-* Socket.IO Live Tracking
-
-### 🎙️ VAANI
-
-Voice & Audio Analysis Natural Interface
-
-* 96% Emotion Recognition Accuracy
-* 89% Speaker Classification Accuracy
-* TensorFlow + Conv1D + BiLSTM + Attention
-
-### 👟 Sneaker Hub
-
-Full Stack E-Commerce Platform
-
-* React + Node.js + MongoDB
-* JWT Authentication
-* AWS S3 Integration
-* Cloud Deployment
-
----
-
-## 🏆 Achievements
-
-🏅 CodeChef 3★ Programmer
-
-🏅 Global Rank 34 – CodeChef Global Starters 158
-
-🏅 Codeforces Pupil
-
-🏅 500+ DSA Problems Solved
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Adityaverma18\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Adityaverma18\&theme=tokyonight\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaverma18\&theme=tokyonight\&hide_border=false\&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Adityaverma18\&theme=tokyonight\&no-frame=false\&margin-w=4)
 
 ---
 
