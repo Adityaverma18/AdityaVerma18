@@ -1,199 +1,161 @@
-# Hi 👋, I'm Aditya Verma
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Aditya Verma
 
-<h3 align="center">🚀 Full Stack Developer | Machine Learning Enthusiast | Competitive Programmer</h3>
+<h3 align="center">🚀 Full Stack Developer • Machine Learning Enthusiast • Competitive Programmer</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;CodeChef+3-Star+Programmer;Building+RapidRelief+%F0%9F%9A%A8" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adityaverma18&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Adityaverma18&label=Profile+Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 <p align="center">
-🎓 B.Tech Computer Science Engineering (Data Science) <br>
-🏫 Techno Main Salt Lake, Kolkata <br>
-🏆 CodeChef 3★ Programmer (1616) | Global Rank 34 <br>
-💡 Passionate about Full Stack Development, Machine Learning, System Design & Cloud Computing
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🏆 Achievements
 
-I'm a Computer Science Engineering (Data Science) undergraduate with strong foundations in software engineering, machine learning, and competitive programming.
-
-My journey started with solving algorithmic challenges and gradually expanded into building full-stack applications, AI-powered systems, and scalable backend architectures.
-
-I enjoy transforming ideas into production-ready applications that solve real-world problems through technology.
-
-Currently, I'm building **RapidRelief**, an AI-powered disaster management platform that combines machine learning, real-time communication, and geospatial optimization to improve emergency response.
-
----
-
-# 🎯 Current Focus
-
-* 🚨 Building RapidRelief – Intelligent Disaster Management System
-* 🤖 Exploring Machine Learning Systems & MLOps
-* ⚙️ Designing Scalable Backend Architectures
-* 📡 Learning Real-Time Communication Systems
-* ☁️ Cloud Deployment & DevOps Fundamentals
-* 🏗️ System Design & Distributed Systems
+<p align="center">
+⭐ CodeChef 3★ &nbsp;&nbsp;
+🏅 Global Rank 34 &nbsp;&nbsp;
+📈 Codeforces Pupil &nbsp;&nbsp;
+💯 500+ Problems Solved
+</p>
 
 ---
 
-# 🏅 Competitive Programming
+## ⚡ Tech Stack
 
-| Platform   | Achievement              |
-| ---------- | ------------------------ |
-| CodeChef   | ⭐ 3-Star Programmer      |
-| CodeChef   | 🏆 Global Rank 34        |
-| Codeforces | 📈 Pupil                 |
-| LeetCode   | 💯 Active Problem Solver |
+### Languages
 
-### Problem Solving
-
-* 👨‍💻 Solved 500+ DSA Problems
-* 🧠 Strong grasp of Algorithms & Data Structures
-* ⚡ Regular Competitive Programming Participant
-
----
-
-# 🛠️ Tech Stack
-
-## Programming Languages
-
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,python,java,c,javascript" />
 </p>
 
-## Frontend Development
+### Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
 </p>
 
-## Backend Development
+### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
-## Databases
+### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
-## Machine Learning & Data Science
+### Machine Learning
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow" />
-</p>
-
-<p>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
 </p>
 
-## Cloud & Tools
+### Tools
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,aws,vercel,render" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🚨 RapidRelief
+<table>
+<tr>
+<td width="50%">
 
-### Intelligent Disaster Management System
+### 🚨 RapidRelief
 
-An AI-powered disaster response platform designed to improve emergency coordination, rescue allocation, and resource prediction.
+AI Powered Disaster Management System
 
-### Features
-
-* Real-Time Incident Tracking
-* Rescue Team Coordination
+* Real-Time Rescue Coordination
 * AI Resource Prediction
-* KD-Tree Spatial Optimization
-* Assistance Center Management
-* Socket.IO Live Communication
-* Role-Based Access Control
+* KD Tree Optimization
+* FastAPI + Node.js
 
-### Tech Stack
+</td>
 
-React • Node.js • MongoDB • FastAPI • Socket.IO • Machine Learning
+<td width="50%">
 
----
+### 🎙️ VAANI
 
-## 🎙️ VAANI
+Voice Emotion Recognition
 
-### Voice and Audio Analysis Natural Interface
+* 96% Emotion Accuracy
+* 89% Speaker Accuracy
+* TensorFlow
+* Deep Learning
 
-An end-to-end speech emotion and speaker recognition system powered by deep learning.
+</td>
+</tr>
 
-### Highlights
+<tr>
+<td width="50%">
 
-* 🎯 96% Emotion Recognition Accuracy
-* 🎯 89% Speaker Classification Accuracy
-* 🔄 Automated CI/CD using GitHub Actions
-* 🎤 Advanced Audio Processing Pipeline
+### 👟 Sneaker Hub
 
-### Tech Stack
-
-Python • TensorFlow • Conv1D • BiLSTM • Attention Mechanism
-
----
-
-## 👟 Sneaker Hub
-
-### Full Stack E-Commerce Platform
-
-A scalable e-commerce application with secure authentication and cloud deployment.
-
-### Features
+Full Stack E-Commerce
 
 * JWT Authentication
-* Product Management
-* Order Processing
-* AWS S3 Integration
-* Optimized REST APIs
+* AWS S3
+* React + Node.js
+* MongoDB
 
-### Tech Stack
+</td>
 
-React • Node.js • MongoDB • AWS S3
+<td width="50%">
+
+### 🧠 Current Focus
+
+* System Design
+* MLOps
+* Cloud Computing
+* Distributed Systems
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Adityaverma18&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Adityaverma18&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaverma18&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🔥 Streak Stats
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Adityaverma18&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityaverma18&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=Adityaverma18&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Adityaverma18&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
-</p>
-
----
-
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityaverma18&theme=tokyo-night&hide_border=true" />
@@ -201,28 +163,7 @@ React • Node.js • MongoDB • AWS S3
 
 ---
 
-# 📚 Currently Learning
-
-* System Design
-* Distributed Systems
-* Machine Learning Deployment
-* Microservices Architecture
-* Cloud Native Applications
-* Advanced Backend Engineering
-
----
-
-# ⚡ Fun Facts
-
-* 🧩 I enjoy solving algorithmic challenges
-* 🚀 I love building projects from scratch
-* 🤖 Passionate about AI-powered solutions
-* 🌍 Interested in technology that creates real-world impact
-* 📚 Always exploring new technologies
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -230,19 +171,13 @@ React • Node.js • MongoDB • AWS S3
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-   
-
 <a href="https://www.linkedin.com/in/adityaverma05">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-   
-
 <a href="https://portfolio-9fen.onrender.com">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
-   
 
 <a href="https://github.com/Adityaverma18">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -252,10 +187,4 @@ React • Node.js • MongoDB • AWS S3
 
 ---
 
-<h3 align="center">
-💡 "Building intelligent systems that solve real-world problems through software, data, and innovation."
-</h3>
-
-<h4 align="center">
-⭐ Thanks for visiting my profile!
-</h4>
+<h3 align="center">💡 Building intelligent systems that solve real-world problems through software and AI.</h3>
