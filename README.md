@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full Stack Developer | Machine Learning Enthusiast | Competitive Programmer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;CodeChef+3-Star+Programmer;Building+RapidRelief+%F0%9F%9A%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;CodeChef+3-Star+Programmer;Building+RapidRelief+🚨;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 </p>
 
 ---
@@ -114,33 +114,39 @@ Voice Emotion Recognition
 </tr>
 
 <tr>
-<td width="50%">
+<td colspan="2">
 
 ### 👟 Sneaker Hub
 
-Full Stack E-Commerce
+Full Stack E-Commerce Platform
 
 * JWT Authentication
-* AWS S3
+* AWS S3 Integration
 * React + Node.js
 * MongoDB
 * Cloud Deployment
 
 </td>
-
-<td width="50%">
-
-### 🎯 Interests
-
-* Backend Engineering
-* Machine Learning
-* System Design
-* Cloud Computing
-* Distributed Systems
-
-</td>
 </tr>
 </table>
+
+---
+
+# 🎯 Interests
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Backend%20Engineering-00599C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System%20Design-6A1B9A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cloud%20Computing-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Distributed%20Systems-00897B?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -179,3 +185,7 @@ Full Stack E-Commerce
 <h3 align="center">
 💡 Building intelligent systems that solve real-world problems through software, data, and innovation.
 </h3>
+
+<h4 align="center">
+⭐ Thanks for visiting my profile!
+</h4>
