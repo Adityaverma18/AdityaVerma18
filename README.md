@@ -3,7 +3,7 @@
 <h3 align="center">🚀 Full Stack Developer | Machine Learning Enthusiast | Competitive Programmer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;CodeChef+3-Star+Programmer;Building+RapidRelief+🚨;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Competitive+Programmer&t=12345" />
 </p>
 
 <p align="center">
