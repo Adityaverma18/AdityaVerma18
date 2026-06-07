@@ -84,7 +84,7 @@ Currently, I'm building **RapidRelief**, an AI-powered disaster management platf
 
 <table>
 <tr>
-<td width="50%">
+
 
 ### 🚨 RapidRelief
 
@@ -96,9 +96,8 @@ AI-Powered Disaster Management System
 * FastAPI + Node.js
 * Socket.IO Integration
 
-</td>
-
-<td width="50%">
+</tr>
+<tr>
 
 ### 🎙️ VAANI
 
@@ -110,11 +109,10 @@ Voice Emotion Recognition
 * Deep Learning
 * CI/CD Pipeline
 
-</td>
 </tr>
 
 <tr>
-<td colspan="2">
+
 
 ### 👟 Sneaker Hub
 
@@ -126,7 +124,7 @@ Full Stack E-Commerce Platform
 * MongoDB
 * Cloud Deployment
 
-</td>
+
 </tr>
 </table>
 
